@@ -20,5 +20,8 @@ public class driver {
     public void promptuser(){
     
     }
+     public void promptuser1(){
+    
+    }
     
 }
